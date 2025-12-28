@@ -1,5 +1,8 @@
-function Home() {
-    return <h1>Teste conexão</h1>
+export default function Home() {
+  return (
+    <div>
+      <h1>Tab News Frase</h1>
+      <p>Deploy funcionando 🚀</p>
+    </div>
+  );
 }
-
-export default Home;
