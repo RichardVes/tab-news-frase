@@ -1,8 +1,8 @@
 export default function Home() {
   return (
     <div>
-      <h1>Tab News Frase</h1>
-      <p>Deploy funcionando 🚀</p>
+      <h1>Olá, Tab News Frase!</h1>
+      <p>Deploy funcionando corretamente 🚀</p>
     </div>
   );
 }
