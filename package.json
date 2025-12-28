@@ -1,0 +1,25 @@
+{
+  "name": "tab-news-frase",
+  "version": "1.0.0",
+  "description": "Frase online para do primeiro desafio do Curso.Dev",
+  "homepage": "https://github.com/RichardVes/tab-news-frase#readme",
+  "bugs": {
+    "url": "https://github.com/RichardVes/tab-news-frase/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardVes/tab-news-frase.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
